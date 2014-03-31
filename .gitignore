@@ -1,0 +1,21 @@
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+/assets/images
+/public/uploads
+/public/system
+/public/assets
+1.JPG.REMOTE.19408.JPG
+1.JPG.REMOTE.19228.JPG
+1.JPG.LOCAL.19408.JPG
+1.JPG.LOCAL.19228.JPG
+1.JPG.BASE.19408.JPG
+1.JPG.BASE.19228.JPG
+1.JPG.BACKUP.19408.JPG
+1.JPG.BACKUP.19228.JPG
