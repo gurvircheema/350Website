@@ -2,7 +2,7 @@
 
 This is Real Estate Application for listing of Properties. It uses paperclip and aws gem for uploading pictures and storing them to amazon s3. Maps are rendered from address string using gem geocoder.
 
-To run this application, follwing things are required (preferred):
+To run this application, following things are required (preferred):
 
 * Ruby version = 2.1.1
 
