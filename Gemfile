@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.1.1'
+
 gem 'rails', '4.0.4'
 gem 'pg'
 
@@ -11,10 +13,10 @@ gem 'rmagick'
 gem 'rails_12factor'
 gem 'will_paginate', '~>3.0'
 
-# for location purposes 
+# for location purposes
 gem "geocoder"
 
-# paperclip for dealing with pictures and resizing and aws for storing images online 
+# paperclip for dealing with pictures and resizing and aws for storing images online
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 gem "aws-sdk"
 
