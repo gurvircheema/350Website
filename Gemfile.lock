@@ -107,8 +107,6 @@ GEM
       thor (>= 0.18.1, < 2.0)
     raindrops (0.13.0)
     rake (10.1.1)
-    rdoc (4.1.1)
-      json (~> 1.4)
     ref (1.0.5)
     rmagick (2.13.2)
     sass (3.2.17)
@@ -117,9 +115,6 @@ GEM
       sass (~> 3.2.0)
       sprockets (~> 2.8, <= 2.11.0)
       sprockets-rails (~> 2.0.0)
-    sdoc (0.4.0)
-      json (~> 1.8)
-      rdoc (~> 4.0, < 5.0)
     sprockets (2.11.0)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -173,7 +168,6 @@ DEPENDENCIES
   rails_12factor
   rmagick
   sass-rails (~> 4.0.2)
-  sdoc
   therubyracer
   turbolinks
   twitter-bootstrap-rails
